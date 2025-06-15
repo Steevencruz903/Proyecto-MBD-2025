@@ -1,8 +1,5 @@
 # Proyecto-MBD-2025
 Se encuentra el código sobre el análisis realizado para le comportamiento del usuario financiero.
-
-# Proyecto MBD 2025
-
 Este repositorio contiene el código del proyecto para el curso de **Modelación y Bases de Datos (MBD)** 2025. Aquí encontrarás cómo configurar el entorno, instalar dependencias y ejecutar los scripts para reproducir los resultados del análisis y las consultas realizadas.
 
 ## Estructura del repositorio
